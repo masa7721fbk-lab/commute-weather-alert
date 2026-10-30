@@ -10,7 +10,7 @@
 
 ## 実際に作った装置
 
-![コンテスト発表動画の実機デモ。Arduinoとブレッドボード、配線、点灯したLED、遅延を表示するLCD](docs/images/hardware-demo.jpg)
+![コンテスト発表動画の実機デモ。Arduinoとブレッドボード、配線、点灯したLED、遅延を表示するLCD](docs/images/hardware-demo.jpg)<img width="263" height="430" alt="image" src="https://github.com/user-attachments/assets/aa24e921-7541-4f97-ae85-40786476015d" />
 コンテストでは実機に外枠、むき出しではないものを完成させてます。
 
 発表動画から切り出した実機の写真です。LCDには天気・気温と路線の状態を表示し、遅延があると「DLY」と表示します。LEDの点滅や色の変化も実機で実演しました。
